@@ -111,6 +111,7 @@ padding: 24px 0;
 .navigation{
     display: flex;
     align-items: center;
+    gap: 40px;
 }
 
     .hed:hover,.hed:focus{color: #404bbf;}
@@ -120,6 +121,7 @@ padding: 24px 0;
     color: #434455;
     padding-right: 40px;
 align-items: center;
+gap: 40px;
 }
 
 .ad-nav:hover{
@@ -134,6 +136,7 @@ align-items: center;
     letter-spacing: 0.02em;
     color: #434455;
     padding-right: 40px;
+    padding: 24px 0;
 
 }
 
@@ -159,6 +162,7 @@ padding: auto;
 display: flex;
 margin: 0 auto;
 padding: 0 15px;
+width: 1158px;
 }
 
 .web-studio{font-family: "Raleway", sans-serif;

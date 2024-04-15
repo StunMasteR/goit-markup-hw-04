@@ -305,5 +305,8 @@ font-weight: 400;
     color: #f4f4fd;
 }
 
-
+.section{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
 

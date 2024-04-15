@@ -288,7 +288,6 @@ font-weight: 400;
     }
 .front{font-family: "Raleway",
     sans-serif;
-    display: inline-block;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -297,7 +296,8 @@ font-weight: 400;
     color: #4d5ae5;
     margin-bottom: 16px;
 }
-
+.front{display: inline-block;
+}
 
 .sp-footer{color: #f4f4fd;
     font-family: "Raleway",

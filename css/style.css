@@ -22,7 +22,8 @@ margin: 0;
     border: 0;
     font-size: 0;}
 
-img{display: block;}
+img{display: block;
+}
 
 p{font-style: normal}
 .col-title{color:#4D5AE5;
@@ -150,7 +151,7 @@ a{text-decoration: none;}
 ul{
 list-style: none; 
 }
-.header {border-bottom: 1px solid #e7e9fc
+.header {border-bottom: 1px solid #e7e9fc;
 }
 
 .container { 
@@ -178,7 +179,7 @@ color:#4d5ae5;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
-    margin-right: 76px
+    margin-right: 76px;
 }
 
 /*------------ main----------- */
@@ -226,7 +227,7 @@ border-radius: 0px 0px 4px 4px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    text-transform: capitalize
+    text-transform: capitalize;
 
 }
 .list-title{margin-bottom: 8px;

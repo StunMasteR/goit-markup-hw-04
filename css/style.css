@@ -288,13 +288,13 @@ font-weight: 400;
     }
 .front{font-family: "Raleway",
     sans-serif;
+    display: inline-block;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    display: inline-block;
     margin-bottom: 16px;
 }
 

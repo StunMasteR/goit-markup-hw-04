@@ -126,6 +126,7 @@ gap: 40px;
     padding-right: 40px;
 align-items: center;
 gap: 40px;
+display: flex;
 }
 
 .ad-nav:hover{
@@ -141,6 +142,7 @@ gap: 40px;
     color: #434455;
     padding-right: 40px;
     padding: 24px 0;
+    display: flex;
 
 }
 

@@ -96,11 +96,9 @@ border-radius: 4px;
     letter-spacing: 0.02em;
     color: #2e2f42;
 display: flex;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-direction: row;
     gap: 40px;
 padding: 24px 0;
+
 }
 
 
@@ -117,8 +115,9 @@ padding: 24px 0;
 }
 .navigation{
     display: flex;
-    align-items: center;
+align-items: center;
     gap: 40px;
+
 }
 
     .hed:hover,.hed:focus{color: #404bbf;}
@@ -166,7 +165,7 @@ list-style: none;
 .header {border-bottom: 1px solid #e7e9fc;
 }
 
-.container { 
+.container{ 
 padding: auto;
 display: flex;
 margin: 0 auto;
@@ -326,7 +325,7 @@ font-weight: 400;
 display: inline-block;
 }
 
-.section{
+section{
     padding-top: 120px;
     padding-bottom: 120px;
 }

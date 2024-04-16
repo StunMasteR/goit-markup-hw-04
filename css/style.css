@@ -171,6 +171,8 @@ display: flex;
 margin: 0 auto;
 padding: 0 15px;
 width: 1158px;
+display: flex;
+
 }
 
 .web-studio{font-family: "Raleway", sans-serif;

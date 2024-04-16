@@ -141,6 +141,8 @@ gap: 40px;
     color: #434455;
     padding-right: 40px;
     padding: 24px 0;
+    gap: 40px;
+    display: flex;
 
 }
 

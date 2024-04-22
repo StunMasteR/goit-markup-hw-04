@@ -134,7 +134,7 @@ display: flex;
 .ad-nav:hover{
         color: #404bbf;
     }
-.ad-nav:focus{color:#404bbf ;}
+.ad-nav:focus{color:#404bbf;}
 
 .contact{ 
     font-weight: 400;
@@ -212,7 +212,7 @@ margin-bottom: 72px;
 .main-skills{padding: 120px 0;
 
 }
-.visually-hidden
+
 
 
 

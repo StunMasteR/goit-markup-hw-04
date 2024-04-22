@@ -114,10 +114,6 @@ padding: 24px 0;
 
 }
 .navigation{
-    display: flex;
-align-items: center;
-    gap: 40px;
-
 }
 
     .hed:hover,.hed:focus{color: #404bbf;}
@@ -126,9 +122,8 @@ align-items: center;
 .ad-nav{font-style: normal;
     color: #434455;
     padding-right: 40px;
-align-items: center;
-gap: 40px;
 display: flex;
+gap: 40px;
 }
 
 .ad-nav:hover{

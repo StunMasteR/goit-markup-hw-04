@@ -15,7 +15,7 @@ margin: 0;
     font: inherit;
     vertical-align: baseline;
 }
-
+li{padding: 24px 0;}
 * {
     margin: 0;
     padding: 0;
@@ -160,6 +160,7 @@ padding: 24px 0;
 .contact{color: #434455;
 display: flex;
 gap: 40px;
+padding: 24px 0;
 }
 
 a{text-decoration: none;}

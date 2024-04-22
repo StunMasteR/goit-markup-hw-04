@@ -112,8 +112,7 @@ padding: 24px 0;
     display: flex;
     gap: 40px;
     padding-right: 40px;
-    margin-right: 40px;
-    margin-right: 0;
+
 }
 .navigation{display: flex;
 align-items: center;

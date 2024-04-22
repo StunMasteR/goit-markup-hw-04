@@ -111,11 +111,12 @@ padding: 24px 0;
     display: flex;
     gap: 40px;
     padding-right: 40px;
-padding: 24px 0;
+
 }
 .navigation{display: flex;
 align-items: center;
 gap: 24px;
+padding: 24px 0;
 }
 .menu{display: flex;
     align-items: center;

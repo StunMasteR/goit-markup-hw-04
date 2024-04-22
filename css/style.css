@@ -113,7 +113,8 @@ padding: 24px 0;
     gap: 40px;
 
 }
-.navigation{
+.navigation{display: flex;
+align-items: center;
 }
 
     .hed:hover,.hed:focus{color: #404bbf;}

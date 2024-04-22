@@ -120,7 +120,7 @@ gap: 24px;
 .menu{display: flex;
     align-items: center;
     gap: 40px;
-    padding: 24px 0
+    padding: 24px 0;
 }
     .hed:hover,.hed:focus{color: #404bbf;}
 
@@ -145,6 +145,7 @@ gap: 24px;
     padding-right: 40px;
     padding: 24px 0;
     display: flex;
+    gap: 40px;
 
 }
 

@@ -100,10 +100,7 @@ display: flex;
 padding: 24px 0;
 
 }
-.menu{
-    display: flex;
-    gap: 40px;
-}
+
 
 .hed {
     font-weight: 500;
@@ -151,14 +148,18 @@ display: flex;
 
 }
 
-.contact-li{padding: 24px 0;
+.contact-li{
 display: flex;
 gap: 40px;
+padding: 24px 0;
 }
 
 .contact:hover,.contact:focus{color: #404bbf;
 }
-.contact{color: #434455;}
+.contact{color: #434455;
+display: flex;
+gap: 40px;
+}
 
 a{text-decoration: none;}
 

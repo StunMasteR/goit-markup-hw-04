@@ -305,7 +305,8 @@ font-weight: 400;
         text-transform: uppercase;
         color:#2e2f42;
     }
-.front{font-family: "Raleway",
+.front{display: inline-block;
+    font-family: "Raleway",
     sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -316,8 +317,7 @@ font-weight: 400;
     margin-bottom: 16px;
     display: inline-block;
 }
-.front{display: inline-block;
-}
+
 
 .sp-footer{color: #f4f4fd;
     font-family: "Raleway",
@@ -328,10 +328,8 @@ font-weight: 400;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
-display: inline-block;
 }
-.on{display: inline-block;
-}
+
 section{
     padding-top: 120px;
     padding-bottom: 120px;

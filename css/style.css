@@ -177,7 +177,7 @@ list-style: none;
 .header {border-bottom: 1px solid #e7e9fc;
 }
 /* container             --------------- */
-.container-r {
+.container-hed{
     display: flex;
     padding: 0 15px;
     width: 1158px;
@@ -317,7 +317,7 @@ font-weight: 400;
     display: inline-block;
 }
 
-.front on{display: inline-block;
+.front{display: inline-block;
 
 
 }

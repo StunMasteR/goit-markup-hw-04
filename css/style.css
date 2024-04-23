@@ -225,10 +225,6 @@ margin-bottom: 72px;
 
 }
 
-
-
-
-
 .Features-list{display: flex;
 gap: 24px;
 width: calc((100% - 72px) / 4);
@@ -237,10 +233,6 @@ align-items: center;
 
 .family{padding: 32px 0;
 }
-
-
-
-
 
 
 
@@ -338,7 +330,8 @@ font-weight: 400;
     color: #f4f4fd;
 display: inline-block;
 }
-
+.on{display: inline-block;
+}
 section{
     padding-top: 120px;
     padding-bottom: 120px;

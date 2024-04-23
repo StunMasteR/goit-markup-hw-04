@@ -229,8 +229,21 @@ margin-bottom: 72px;
 gap: 24px;
 width: calc((100% - 72px) / 4);
 align-items: center;
+gap: 24px;
 }
+.visually-hidden{
+position: absolute;
+width: 1px;
+height: 1px;
+margin:-1px;
+border: 0;
+padding: 0;
+white-space: nowrap;
+clip-path: inset(100%);
+clip:rect(0 0 0 0);
+overflow: hidden;
 
+}
 .family{padding: 32px 0;
 }
 
@@ -241,6 +254,7 @@ display: flex;
 gap: 24px;
 width: calc((100% - 72px) / 4);
 border-radius: 0px 0px 4px 4px;
+gap: 24px;
 }
 
 

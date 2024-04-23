@@ -225,6 +225,14 @@ margin-bottom: 72px;
 
 }
 
+.text-list{
+    display: flex;
+gap: 24px;
+
+
+}
+
+
 .Features-list{display: flex;
 gap: 24px;
 width: calc((100% - 72px) / 4);

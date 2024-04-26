@@ -139,7 +139,7 @@ margin-right: auto;
 .ad-nav:focus{color:#404bbf;
 }
 
-.hed.studio::after {
+.hed uno.studio::after {
     content: '';
     position: absolute;
     left: 0;
@@ -152,7 +152,9 @@ margin-right: auto;
     border-radius: 2px;
 }
 
-
+.studio{position: relative;
+    position: absolute;
+}
 
 
 

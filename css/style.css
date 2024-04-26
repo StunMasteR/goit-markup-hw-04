@@ -110,10 +110,9 @@ display: flex;
 display: block;
 padding-right: 40px;
 padding: 24px 0;
+
 }
 
-.uno{padding: 24px 0;
-}
 
 
 
@@ -137,7 +136,26 @@ margin-right: auto;
 .ad-nav:hover{
         color: #404bbf;
     }
-.ad-nav:focus{color:#404bbf;}
+.ad-nav:focus{color:#404bbf;
+}
+
+.hed.studio::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    display: block;
+    width: 100%;
+    height: 4px;
+    border-radius: 4px;
+    background-color: #404bbf;
+    border-radius: 2px;
+}
+
+
+
+
+
 
 .contact{ 
     font-weight: 400;
@@ -450,4 +468,16 @@ section{
 }
 
 .icon-footer-pictures {fill: #f4f4fd;
+}
+
+.footer-box{
+    width: 1158px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto;
+        display: flex;
+        align-items: baseline;
+}
+
+.footer-link{margin-right: 120px;
 }

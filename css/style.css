@@ -281,7 +281,7 @@ overflow: hidden;
 
 }
 .family{padding: 32px 0;
-    text-align: center;
+    margin: auto;
 }
 
 
@@ -296,7 +296,7 @@ overflow: hidden;
     }
 
 .team-icon {
-    display: flex;
+display: flex;
     justify-content: center;
     gap: 24px;
 }
@@ -348,22 +348,25 @@ overflow: hidden;
 
 }
 
-.list-title{font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
+.list-title{line-height: 1.2;
     color: #2e2f42;
-    text-transform: capitalize;
-
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    text-align: center;
+    margin-bottom: 8px;
 }
-.list-title{margin-bottom: 8px;
-}
 
-    .p-text{font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
+
+    .p-text{line-height: 1.5;
+        text-transform: capitalize;
         color: #434455;
+        letter-spacing: 0.02em;
+        font-size: 16px;
+        font-weight: 400;
+        text-align: center;
+        margin-bottom: 8px;
     }
 .job{padding-top: 120px;
     padding-bottom: 120px;

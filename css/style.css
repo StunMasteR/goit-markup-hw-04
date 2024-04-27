@@ -83,7 +83,6 @@ border-radius: 4px;
     margin-left: auto;
     margin-right: auto;
 transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
 .button-a:hover,.button-a:focus{color: #ffffff;
     background-color: #404BBF;
 }
@@ -293,6 +292,7 @@ overflow: hidden;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
         0 1px 1px 0 rgba(46, 47, 66, 0.16),
         0 1px 6px 0 rgba(46, 47, 66, 0.08);
+transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
 
 .team-icon {
@@ -396,7 +396,7 @@ border-top: none;
 
 .photo-job{width: calc((100% - 48px) / 3);
         background-color: #fff;
-            transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
 }
 
 .photo-job:hover{box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
@@ -503,10 +503,11 @@ section{
 .social-list {display: flex;
     justify-content: center;
     gap: 16px;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
 }
 
-.social-items {width: 40px;
+.social-items {
+width: 40px;
     height: 40px;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
